@@ -1,0 +1,23 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekhoi/cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekhoi/cicd/issues"
+  },
+  "homepage": "https://github.com/zekhoi/cicd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
